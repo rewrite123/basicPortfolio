@@ -1,0 +1,95 @@
+body{
+	background-color: #C1292E;
+}
+canvas{
+	width: 600px;
+	height: 400px;
+	
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0%;
+	margin-bottom: 0%;
+	display: block;
+}
+video{
+	width: 700px;
+	height: 400px;
+	
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0%;
+	margin-bottom: 0%;
+	display: block;
+	background-color: #C1292E;
+}
+img{
+	width: 400px;
+	height: 400px;
+	
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0%;
+	margin-bottom: 0%;
+	display: block;
+	image-rendering: pixelated;
+}
+a{
+	font-size: 15px;
+}
+.mainWrapper{
+	background-color: #01161E;
+	margin-left: 15%;
+	margin-right: 15%;
+}
+.headingWrapper{
+	background-color: #01161E;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 2%;
+	margin-bottom: 0%;
+	font-size: 38px;
+	font-family: "Bree Serif";
+	font-variant: small-caps;
+	text-align: center;
+	color: #FDFFFC;
+}
+.smallHeadingWrapper{
+	background-color: #01161E;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 0%;
+	margin-bottom: 0%;
+	font-size: 28px;
+	font-family: "Bree Serif";
+	font-variant: small-caps;
+	color: #FDFFFC;
+}
+a.smallHeadingWrapper{
+	margin-left: 0%;
+	margin-right: 0%;
+	color: inherit;
+	text-decoration: inherit;
+}
+.detail{
+	background-color: #01161E;
+	margin-left: 10%;
+	margin-right: 0%;
+	margin-top: 0%;
+	margin-bottom: 0%;
+	font-size: 18px;
+	font-family: "Buenard";
+	font-variant: normal;
+	color: #FDFFFC;
+}
+.footer{
+	margin-left: 16%;
+	margin-right: 16%;
+	margin-top: 25px;
+	margin-bottom: 5%;
+	color: #01161E;
+	text-align: center;
+	border-top: 2px solid #044389;
+}
+.makeRed{
+	color: #C1292E;
+}
