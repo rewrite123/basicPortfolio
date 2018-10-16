@@ -89,6 +89,7 @@ a.smallHeadingWrapper{
 	font-family: "Buenard";
 	font-variant: normal;
 	color: #ffff;
+	line-height: 150%;
 }
 .footer{
 	margin-left: 16%;
