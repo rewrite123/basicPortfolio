@@ -23,8 +23,8 @@ video{
 	background-color: #233329;
 }
 img{
-	width: 400px;
-	height: 400px;
+	width: 200px;
+	height: 200px;
 	
 	margin-left: auto;
 	margin-right: auto;
@@ -33,8 +33,16 @@ img{
 	display: block;
 	image-rendering: pixelated;
 }
-a{
-	font-size: 15px;
+.mainImage{
+	width: 400px;
+	height: 400px;
+	
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 2%;
+	margin-bottom: 2%;
+	display: block;
+	image-rendering: pixelated;
 }
 .mainWrapper{
 	background-color: rgb(241, 241, 241);
@@ -59,6 +67,7 @@ a{
 	margin-right: 10%;
 	margin-top: 0%;
 	margin-bottom: 0%;
+	padding-left: 1%;
 	font-size: 28px;
 	font-family: "Bree Serif";
 	font-variant: small-caps;
@@ -88,5 +97,5 @@ a.smallHeadingWrapper{
 	margin-bottom: 5%;
 	color: rgb(51, 51, 51);
 	text-align: center;
-	border-top: 2px solid #233329;
+	border-top: 2px solid rgb(121, 121, 121);
 }
